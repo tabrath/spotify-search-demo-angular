@@ -1,0 +1,24 @@
+{
+  "name": "spotify-search-demo-angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Trond Arne Bråthen <tabrath@gmail.com> (https://github.com/tabrath)"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-animate": "^1.5.3",
+    "foundation-sites": "^6.2.0",
+    "jquery": "^2.2.2"
+  }
+}
